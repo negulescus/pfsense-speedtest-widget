@@ -12,4 +12,6 @@ Copy the widget file **speedtest.widget.php** to **/usr/local/www/widgets/widget
 
 Install the widget on your dashboard.
 
-More info here: https://www.speedtest.net/apps/cli
+More info:
+- https://www.speedtest.net/apps/cli
+- https://www.joe0.com/2019/11/12/measure-the-speed-of-your-pfsense-routers-wan-connection-by-executing-the-speedtest-net-from-a-pfsense-gui/

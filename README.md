@@ -12,3 +12,4 @@ Copy the widget file **speedtest.widget.php** to **/usr/local/www/widgets/widget
 
 Install the widget on your dashboard.
 
+More info here: https://www.speedtest.net/apps/cli
